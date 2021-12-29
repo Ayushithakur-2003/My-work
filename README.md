@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayushithakur-2003
+- 👋 Hi, I’m Ayushi Thakur
 - 👀 I’m interested in learning programming stuff 
 - 🌱 I’m currently doing A Bachelors course in Computer Application(BCA)
 - 📫 Reach me via my email : thakurayushi696@gmail.com
