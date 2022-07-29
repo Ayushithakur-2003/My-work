@@ -4,9 +4,6 @@ import KEY
 from requests import Session
 from pprint import pprint as pp
 
-
-
-
 class CMC:
     def __init__(self,token):
         self.apiurl = 'https://pro-api.coinmarketcap.com'
